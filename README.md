@@ -53,7 +53,7 @@ The aim is to help you easily understand, optimize and secure your website.
 [![Screenshot](https://i.ibb.co/r0jXN6s/web-check.png)](https://github.com/Lissy93/web-check/tree/master/.github/screenshots)
 
 ### Live Demo
-A hosted version can be accessed at: **[web-check.as93.net](https://web-check.as93.net)**
+A hosted version can be accessed at: **[web-checker-osint.netlify.appt](https://web-checker-osint.netlify.app)**
 
 ### Mirror
 The source for this repo is mirrored to CodeBerg, available at: **[codeberg.org/alicia/web-check](https://codeberg.org/alicia/web-check)**
