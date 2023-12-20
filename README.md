@@ -5,7 +5,7 @@
 <img src="https://i.ibb.co/q1gZN2p/web-check-logo.png" width="96" /><br />
 <b><i>Comprehensive, on-demand open source intelligence for any website</i></b>
 <br />
-<b>🌐 <a href="https://web-check.xyz/">web-check.xyz</a></b><br />
+<b>🌐 <a href="https://web-checker-osint.netlify.app/">web-check.xyz</a></b><br />
 
 </p>
 
