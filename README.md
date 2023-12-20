@@ -1,4 +1,4 @@
-<h1 align="center">Web-Check</h1>
+
 <h1 align="center">This project is a clone on Lissy93/web-check</h1>
 
 <p align="center">
